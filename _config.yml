@@ -32,7 +32,8 @@ collections: [sections]
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-prologue
-remote_theme: chrisbobbe/jekyll-theme-prologue
+#remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: kg6zvp/jekyll-theme-prologue
 #remote_theme: kg6zvp/hcz-jekyll-theme
 plugins:
   - jekyll-feed
