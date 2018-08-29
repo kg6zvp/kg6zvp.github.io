@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Getting into Thorntail v4"
+icon: fa-file-code
 categories: java maven thorntail-v4
 permalink: /blog/2018/08/28/getting-started-ttv4.html
 ---

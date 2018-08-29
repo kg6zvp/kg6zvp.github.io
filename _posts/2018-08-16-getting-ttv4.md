@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Get Thorntail v4"
+icon: fa-file-download
 categories: java maven ci thorntail-v4
 permalink: /blog/2018/08/16/getting-ttv4.html
 ---

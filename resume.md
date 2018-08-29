@@ -3,7 +3,7 @@ order: 2
 title: Resumé
 layout: page
 permalink: /resume/
-icon: fa-file
+icon: fa-file-alt
 ---
 
 # Sam McCollum
