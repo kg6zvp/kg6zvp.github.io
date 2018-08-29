@@ -175,4 +175,8 @@ public class MyTest {
 }
 ```
 
-This class does something very similar to Arquillian, but without the isolation between the app and the test and without requiring the definition of a deployment. It runs the tests with the whole app loaded.
+This class does something very similar to Arquillian, but without the isolation between the app and the test and without requiring the definition of a deployment. It runs the tests with the whole app loaded so the test environment is as close to production as you can get.
+
+## Keep Going
+
+Now that you've setup a basic project and learned how it works, you're ready to explore Thorntail v4 in more detail.
