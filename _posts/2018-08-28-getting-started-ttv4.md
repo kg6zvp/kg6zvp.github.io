@@ -179,4 +179,4 @@ This class does something very similar to Arquillian, but without the isolation 
 
 ## Keep Going
 
-Now that you've setup a basic project and learned how it works, you're ready to explore Thorntail v4 in more detail.
+Now that you've setup a basic project and learned how it works, you're ready to explore Thorntail v4 in more detail. Check back on this blog for more.
