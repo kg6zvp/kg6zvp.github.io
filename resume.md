@@ -32,6 +32,17 @@ I understand the details, challenges and requirements of software projects inclu
 - JPQL
 - MongoDB
 
+## Open Source
+
+- [Thorntail (Java EE-like application platform)](https://github.com/thorntail/thorntail/)
+- [Icing (Plex alternative with synchronized playback with friends)](https://gitlab.mccollum.enterprises/icing/media/)
+- [GenericEntityEJB (Easy CRUD and matching-based search for JPA 2)](https://github.com/kg6zvp/genericentityejb/)
+- [Rails DI (JSR331-like dependency injection for Ruby on Rails)](https://github.com/kg6zvp/eisiges-di-provider-rails/)
+- [Wmapp-server (Custom auth backend with SDK using JWT and OAuth)](https://github.com/kg6zvp/wmapp-loginserver/)
+- [Wmapp-c-authclient (client for Wmapp-server for native apps written in C)](https://github.com/kg6zvp/wmapp-c-authclient/)
+
+and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
+
 ## Experience
 
 **Software Engineering Intern at Appfolio**: *June 2017 - August 2017*\\
