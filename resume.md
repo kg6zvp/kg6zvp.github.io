@@ -6,22 +6,31 @@ permalink: /resume/
 icon: fa-file
 ---
 
-# Sam McCollum
-[_(650)200-6872_](tel:+16502006872)<br>
-[kg6zvp@gmail.com](mailto:kg6zvp@gmail.com)<br>
-YouTube Channel: [http://eisig.es/yt](http://eisig.es/yt)
+I am an accomplished software engineer with over 5 years of experience in Java development, systems architecture and open source software.
 
-## Summary
-
-Accomplished software engineer with over 5 years of experience in Java development, JakartaEE/Hibernate for 2 years and Microprofile since 2017. Known for understanding the details, challenges and requirements of any software project including the development of custom solutions to support business requirements. Goal-oriented self-starter dedicated to driving the productivity of the team.
-
-Passionate about software engineering and open source.
+I understand the details, challenges and requirements of software projects including the custom solutions to support business requirements.
 
 ## Languages
 
-**Programming**: Java, C, C++, Python, Bash, SQL/JPQL, JavaScript, Ruby\\
-**Platforms/Frameworks**: Android, Java EE/JakartaEE, Spring, Ruby on Rails\\
-**Conversational Proficiency**: English and German
+- Java
+- Ruby
+- C/C++
+- Go
+- Elixir
+
+## Frameworks
+
+- Java EE/Jakarta EE
+- Spring
+- Ruby on Rails
+- Docker
+
+## Databases
+
+- SQL
+- PostgreSQL
+- JPQL
+- MongoDB
 
 ## Experience
 
