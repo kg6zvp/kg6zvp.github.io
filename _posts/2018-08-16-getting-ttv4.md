@@ -2,6 +2,7 @@
 layout: post
 title: "Get Thorntail v4"
 categories: java maven ci thorntail-v4
+permalink: /blog/2018/08/16/getting-ttv4.html
 ---
 
 Thorntail v4 hasn't been released yet, but that doesn't mean it's too early to start using it in your projects. It's even easier than you think to get it.

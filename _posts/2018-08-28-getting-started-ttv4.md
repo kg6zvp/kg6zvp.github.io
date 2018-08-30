@@ -2,6 +2,7 @@
 layout: post
 title: "Getting into Thorntail v4"
 categories: java maven thorntail-v4
+permalink: /blog/2018/08/28/getting-started-ttv4.html
 ---
 
 ## What is Thorntail v4?
@@ -34,7 +35,7 @@ Just a few of the great features you get with Thorntail v4 are:
 
 ## Getting Thorntail v4
 
-Head over to my article on installing Thorntail v4 ([here](/java/maven/ci/thorntail-v4/2018/08/16/getting-ttv4.html)) to get it into your system's maven cache
+Head over to my article on installing Thorntail v4 ([here](/blog/2018/08/16/getting-ttv4.html)) to get it into your system's maven cache
 
 ## Using Thorntail v4
 
