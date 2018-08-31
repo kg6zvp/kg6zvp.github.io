@@ -1,0 +1,60 @@
+---
+permalink: /keybase.txt
+---
+
+==================================================================
+https://keybase.io/kg6zvp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kg6zvp.github.io
+  * I am kg6zvp (https://keybase.io/kg6zvp) on keybase.
+  * I have a public key ASB1SwTBS2cDKuN1pyl5UP99dpy8C25cxlVTChqlLdHxYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120754b04c14b67032ae375a7297950ff7d769cbc0b6e5cc655530a1aa52dd1f1600a",
+      "host": "keybase.io",
+      "kid": "0120754b04c14b67032ae375a7297950ff7d769cbc0b6e5cc655530a1aa52dd1f1600a",
+      "uid": "4022b4df9a8b02c82f1fd349860b7c19",
+      "username": "kg6zvp"
+    },
+    "merkle_root": {
+      "ctime": 1535744254,
+      "hash": "bda1dd379548943c92e78c641f0e4a689d9d79706a38ea603d53fdd38b0e2d77729c7f0b79624b1b0a8a6ffe37b352b5f0be446443429bae615d2ebefe3d8e13",
+      "hash_meta": "aefb28682736132ea6f912cd7f3c8356c3d4c745c30209bbdb0d529c9a0c11a4",
+      "seqno": 3545705
+    },
+    "service": {
+      "entropy": "BGchcUSNu/QXkzZjRWdvjitp",
+      "hostname": "kg6zvp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1535744279,
+  "expire_in": 504576000,
+  "prev": "9199dec7aece5e672109b06c1924afafcb2e8bf20a270ae8c6b9e10acea21bc7",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdUsEwUtnAyrjdacpeVD/fXacvAtuXMZVUwoapS3R8WAKp3BheWxvYWTESpcCB8QgkZnex67OXmchCbBsGSSvr8sui/IKJwroxrnhCs6iG8fEICkKZ9WDurtEt1qgXjd2Z/y1VnTIBsldsPeXfASLdfVFAgHCo3NpZ8RAn9igGQojh41fVr+hIEHGog3DsgBWwc3eKMHXxckqUAh+zY0C+lqYv6wEz+nncXozQ2bSA5Ruwc2R3xCYMdg8C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGYNERPYk2X4wEcX7Gx6tNBEMxrHKTul7LmsPT9moAISo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kg6zvp
+
+==================================================================
