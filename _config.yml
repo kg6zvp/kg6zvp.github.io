@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kg6zvp
 linkedin_url: https://linkedin.com/in/kg6zvp
 github_url: https://github.com/kg6zvp
+google_analytics: UA-126229144-1
 
 avatar: static/DSC_0022.jpg
 
@@ -31,10 +32,7 @@ collections: [sections]
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-prologue
-#remote_theme: chrisbobbe/jekyll-theme-prologue
 remote_theme: kg6zvp/jekyll-theme-prologue
-#remote_theme: kg6zvp/hcz-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
