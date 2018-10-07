@@ -37,6 +37,7 @@ I understand the details, challenges and requirements of software projects inclu
 - [Thorntail (Java EE-like application platform)](https://github.com/thorntail/thorntail/)
 - [Icing (Plex alternative with synchronized playback with friends)](https://gitlab.mccollum.enterprises/icing/media/)
 - [Sudden DAO (Easy CRUD and matching-based search for JPA 2)](https://github.com/kg6zvp/sudden-dao/)
+- [MP Config Files (Extensions for loading files with microprofile config values)](https://github.com/kg6zvp/mp-conf-files/)
 - [Rails DI (JSR331-like dependency injection for Ruby on Rails)](https://github.com/kg6zvp/eisiges-di-provider-rails/)
 - [Wmapp-server (Custom auth backend with SDK using JWT and OAuth)](https://github.com/kg6zvp/wmapp-loginserver/)
 - [Wmapp-c-authclient (client for Wmapp-server for native apps written in C)](https://github.com/kg6zvp/wmapp-c-authclient/)
@@ -45,8 +46,11 @@ and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
 
 ## Experience
 
+**Open Source Project Contributions**: *August 2017-August 2018*\\
+I have been contributing to open source projects and helping friends with their projects or business ventures.
+
 **Software Engineering Intern at Appfolio**: *June 2017 - August 2017*\\
-Agile Team member learning about the needs of property management customers and implementing solutions to improve their everyday lives. (Ruby on Rails, JavaScript)
+Worked with a team I highly respect and value to continuously delight and improve the experiences of the customers of AppFolio.
 
 **Software Engineering Intern at Pinger**: *January 2016 - April 2016*\\
 Agile Team member supporting other developers with internal use software, bug support/fixes and improvements to both testing and reporting systems. (Bash, PHP, Java, C, C++, Gradle, ANT)
@@ -57,4 +61,4 @@ Responsibilities included taking care of machines on the virtualization cluster 
 **Small Business Specialist IT Consultant**: *March 2014 - July 2014*\\
 Small businesses support providing general IT help with networking, virtualization, device deployment and LCM.
 
-See my [Projects](/projects)
+See my [Projects](https://github.com/kg6zvp/)
