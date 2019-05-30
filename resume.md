@@ -46,8 +46,11 @@ and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
 
 ## Experience
 
-**Open Source Project Contributions**: *August 2017-August 2018*\\
-I have been contributing to open source projects and helping friends with their projects or business ventures.
+**Software Engineer at Stae**: *November 2018-present*\\
+Work on various projects from full-stack javascript to infrastructure and devops.
+
+**Open Source Project Contributions**: *August 2017-Oct 2018*\\
+Contributed to open source projects and helped with various projects or business ventures.
 
 **Software Engineering Intern at Appfolio**: *June 2017 - August 2017*\\
 Worked with a team I highly respect and value to continuously delight and improve the experiences of the customers of AppFolio.
