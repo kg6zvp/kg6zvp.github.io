@@ -1,18 +1,22 @@
 ---
 order: 2
-title: Resumé
+title: Sam McCollum Resumé
 layout: page
 permalink: /resume/
 icon: fa-file
 ---
+[Download Resume](/static/Sam_McCollum_Resume.pdf)
+[kg6zvp@gmail.com](mailto:kg6zvp@gmail.com)\
+[(650)200-6872](tel:+16502006872)
 
 I am an accomplished software engineer with over 5 years of experience in Java development, systems architecture and open source software.
 
-I understand the details, challenges and requirements of software projects including the custom solutions to support business requirements.
+I understand the details, challenges and requirements of software projects including the custom solutions to support business requirements. I enjoy working in a customer-driven environment with people who will grow and stretch me in new ways.
 
 ## Languages
 
 - Java
+- JavaScript
 - Ruby
 - C/C++
 - Go
@@ -23,7 +27,10 @@ I understand the details, challenges and requirements of software projects inclu
 - Java EE/Jakarta EE
 - Spring
 - Ruby on Rails
+- Node.js
 - Docker
+- Kubernetes
+- React
 
 ## Databases
 
@@ -34,6 +41,8 @@ I understand the details, challenges and requirements of software projects inclu
 
 ## Open Source
 
+- [Open source at Stae](https://github.com/staeco/)
+- [ThumbTack (Java EE Application Framework (currently in development, Thorntail v4 fork)](https://github.com/thumb-tack/tt)
 - [Thorntail (Java EE-like application platform)](https://github.com/thorntail/thorntail/)
 - [Icing (Plex alternative with synchronized playback with friends)](https://gitlab.mccollum.enterprises/icing/media/)
 - [Sudden DAO (Easy CRUD and matching-based search for JPA 2)](https://github.com/kg6zvp/sudden-dao/)
@@ -46,8 +55,11 @@ and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
 
 ## Experience
 
-**Software Engineer at Stae**: *November 2018-present*\\
-Work on various projects from full-stack javascript to infrastructure and devops.
+**Senior Software Engineer at Allatate CompoZed Labs**: *November 2019-present*\\
+Chief cook and bottle washer; microservices, automation scripting, architecture, etc. to solve the problem at hand.
+
+**Software Engineer at Stae**: *November 2018-October 2019*\\
+Work on various projects from full-stack javascript to infrastructure and devops. (Node.js, React, Postgres, PostGIS, Kubernetes, etc.)
 
 **Open Source Project Contributions**: *August 2017-Oct 2018*\\
 Contributed to open source projects and helped with various projects or business ventures.
