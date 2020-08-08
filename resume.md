@@ -5,6 +5,7 @@ layout: page
 permalink: /resume/
 icon: fa-file
 ---
+[Download Resume](static/Sam_McCollum_Resume.md)
 [kg6zvp@gmail.com](mailto:kg6zvp@gmail.com)\
 [(650)200-6872](tel:+16502006872)
 
@@ -54,7 +55,10 @@ and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
 
 ## Experience
 
-**Software Engineer at Stae**: *November 2018-present*\\
+**Senior Software Engineer at Allatate CompoZed Labs**: *November 2019-present*\\
+Chief cook and bottle washer; microservices, automation scripting, architecture, etc. to solve the problem at hand.
+
+**Software Engineer at Stae**: *November 2018-October 2019*\\
 Work on various projects from full-stack javascript to infrastructure and devops. (Node.js, React, Postgres, PostGIS, Kubernetes, etc.)
 
 **Open Source Project Contributions**: *August 2017-Oct 2018*\\
