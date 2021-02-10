@@ -55,7 +55,7 @@ and a host of others: [https://github.com/kg6zvp/](https://github.com/kg6zvp/)
 
 ## Experience
 
-**Senior Software Engineer at Allatate CompoZed Labs**: *November 2019-present*\\
+**Senior Software Engineer at Allstate CompoZed Labs**: *November 2019-present*\\
 Chief cook and bottle washer; microservices, automation scripting, architecture, etc. to solve the problem at hand.
 
 **Software Engineer at Stae**: *November 2018-October 2019*\\
