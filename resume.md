@@ -5,7 +5,7 @@ layout: page
 permalink: /resume/
 icon: fa-file
 ---
-[Download Resume](/static/Sam_McCollum_Resume.pdf)
+[Download Resume](/static/Sam_McCollum_Resume.pdf)\
 [kg6zvp@gmail.com](mailto:kg6zvp@gmail.com)\
 [(650)200-6872](tel:+16502006872)
 
